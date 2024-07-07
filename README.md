@@ -1,4 +1,4 @@
-# Assignment Application
+# Jobs Recurring Application
 
 This project is a Java-based assignment application designed to manage surveys, questions, and answers. It includes models for candidates, companies, jobs, questions, surveys, and survey answers.
 
